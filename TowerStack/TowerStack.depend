@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1490247595 source:c:\users\abhinav\desktop\c++\towerstack\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Constants.h"
+	"Block.h"
+	"Stack.h"
+	<ctime>
+	<cstdlib>
+
+1490244741 c:\users\abhinav\desktop\c++\towerstack\include\constants.h
+	<vector>
+	<SFML/Graphics.hpp>
+
+1490245253 c:\users\abhinav\desktop\c++\towerstack\include\block.h
+	<SFML/Graphics.hpp>
+	"Constants.h"
+	<iostream>
+	<cstdlib>
+
+1490245296 source:c:\users\abhinav\desktop\c++\towerstack\src\block.cpp
+	"Block.h"
+
+1490247566 source:c:\users\abhinav\desktop\c++\towerstack\src\constants.cpp
+	"Constants.h"
+
+1490247464 source:c:\users\abhinav\desktop\c++\towerstack\src\stack.cpp
+	"Stack.h"
+
+1490243055 c:\users\abhinav\desktop\c++\towerstack\include\stack.h
+	"Block.h"
+	"Constants.h"
+	<iostream>
+	<cmath>
+
+1490247596 source:c:\users\oem\desktop\c++\towerstack\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Constants.h"
+	"Block.h"
+	"Stack.h"
+	<ctime>
+	<cstdlib>
+
+1490260752 c:\users\oem\desktop\c++\towerstack\include\constants.h
+	<vector>
+	<SFML/Graphics.hpp>
+	<iostream>
+	<cstdlib>
+
+1490255392 c:\users\oem\desktop\c++\towerstack\include\block.h
+	<SFML/Graphics.hpp>
+	"Constants.h"
+	<iostream>
+	<cstdlib>
+
+1490253561 c:\users\oem\desktop\c++\towerstack\include\stack.h
+	"Block.h"
+	"Constants.h"
+	<iostream>
+	<cmath>
+
+1490258371 source:c:\users\oem\desktop\c++\towerstack\src\block.cpp
+	"Block.h"
+
+1490261324 source:c:\users\oem\desktop\c++\towerstack\src\constants.cpp
+	"Constants.h"
+
+1490258806 source:c:\users\oem\desktop\c++\towerstack\src\stack.cpp
+	"Stack.h"
+
